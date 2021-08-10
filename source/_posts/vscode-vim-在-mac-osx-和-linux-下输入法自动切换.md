@@ -3,7 +3,6 @@ title: vscode vim 在 mac osx 和 linux 下输入法自动切换
 date: 2019-10-24 09:42:30
 categories:
 - linux
-- hackintosh
 tags:
 - fctix
 - osx
